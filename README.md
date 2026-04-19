@@ -32,4 +32,4 @@ Linux System Administrator | Networking Enthusiast
 
 ## 📫 Contact
 - GitHub: (https://github.com/nyeinchansan04-afk)
-- Email: (nyeinchansan04@icloud)
+- Email: (nyeinchansan04@icloud.com)
