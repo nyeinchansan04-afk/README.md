@@ -1,35 +1,54 @@
-# Nyein Chan San Portfolio
+👋 Hi, I'm Chan
 
-Linux System Administrator | Networking Enthusiast
-
----
-
-## 🧠 Skills
-- Linux (Ubuntu, Rocky Linux)
-- CCNA Networking (NAT, ACL, Routing basics)
-- Bash Scripting & Automation
+🚀 Aspiring DevOps Engineer from Myanmar
+💻 Background: Network Engineer + Linux Administration
 
 ---
 
-## 📁 Projects
+🧠 About Me
 
-### 🔹 NAT & ACL Lab
-- Configured NAT (PAT) for private network access
-- Implemented ACL rules for traffic control
-- Tested connectivity using ping and traceroute
-
-### 🔹 DNS + Web Server Simulation
-- Configured DNS resolution for local domain
-- Set up Web server using Apache/Nginx
-- Verified service using nslookup and curl
-
-### 🔹 Linux Automation Scripts
-- Backup automation script
-- User management script
-- System monitoring script using Bash
+- 🔧 Learning DevOps (Linux, Docker, AWS)
+- 🌐 Networking (CCNA level knowledge)
+- ☁️ Currently exploring AWS Cloud & Automation
+- 🎯 Goal: Become a DevOps Engineer
 
 ---
 
-## 📫 Contact
-- GitHub: (https://github.com/nyeinchansan04-afk)
-- Email: (nyeinchansan04@icloud.com)
+🛠️ Skills
+
+- Linux (CLI, Bash)
+- Networking (IP, Subnet, Routing)
+- Docker (Containerization)
+- Git & GitHub
+- AWS (EC2, VPC)
+
+---
+
+📂 Projects
+
+🔹 AWS VPC Lab
+
+- Created VPC with public & private subnet
+- Configured Internet Gateway & Route Table
+- Deployed EC2 instances
+
+👉 (Project link here)
+
+---
+
+🔹 Docker Nginx Project
+
+- Run nginx container
+- Port mapping & container management
+
+👉 (Project link here)
+
+---
+
+📫 Contact
+
+- GitHub: https://github.com/nyeinchansan04-afk
+
+---
+
+⭐ Always learning and building...
