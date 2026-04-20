@@ -1,0 +1,83 @@
+# AWS VPC Lab 🚀
+
+This project demonstrates how to build a custom Virtual Private Cloud (VPC) in AWS with public and private subnets, route tables, and internet connectivity.
+
+---
+
+## 📌 Project Overview
+
+In this lab, I created a fully functional AWS VPC environment including:
+
+- Custom VPC
+- Public and Private Subnets
+- Internet Gateway
+- Route Tables configuration
+- EC2 instance deployment
+- Security Group setup
+
+---
+
+## 🏗️ Architecture
+
+- VPC: 1 (Custom VPC)
+- Subnets:
+  - Public Subnet (EC2 access from internet)
+  - Private Subnet (internal resources)
+- Internet Gateway: Enabled
+- Route Tables: Configured for public access
+
+---
+
+## ⚙️ Services Used
+
+- Amazon VPC
+- Amazon EC2
+- Internet Gateway
+- Route Tables
+- Security Groups
+
+---
+
+## 🚀 Steps Performed
+
+1. Created a custom VPC
+2. Created public and private subnets
+3. Attached Internet Gateway to VPC
+4. Configured route table for public subnet
+5. Launched EC2 instance in public subnet
+6. Configured security group for SSH/HTTP access
+7. Verified internet connectivity
+
+---
+
+## 📸 Screenshots
+
+_Add your AWS console screenshots here_
+
+- VPC Setup
+- Subnet Configuration
+- EC2 Instance Running
+- Route Table Settings
+
+---
+
+## 🎯 Learning Outcome
+
+- Understanding of AWS networking basics
+- VPC architecture design
+- Subnet segmentation (public vs private)
+- EC2 deployment in custom network
+
+---
+
+## 👨‍💻 Author
+
+- GitHub: [Your Username]
+- Project: AWS VPC Lab
+
+---
+
+## 📌 Status
+
+✔ Completed (Basic Level)  
+🔜 Next: NAT Gateway + Private EC2 access setup
