@@ -88,3 +88,16 @@ Shows Internet Gateway configured for public access.
 
 ✔ Completed (Basic Level)  
 🔜 Next: NAT Gateway + Private EC2 access setup
+
+## 🌐 NAT Gateway Setup
+
+- Created NAT Gateway in public subnet
+- Attached Elastic IP
+- Updated private route table to use NAT
+- Launched private EC2 (no public IP)
+- Verified internet access via NAT
+
+## 📸 Screenshots
+
+![Private EC2](screenshots/private-ec2.png)
+![NAT Gateway](screenshots/nat-gateway.png)
